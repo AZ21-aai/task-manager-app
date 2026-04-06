@@ -67,7 +67,7 @@ Abdul Aziz Ilhan
 
 ## 📸 Screenshot
 
-<img src="TaskManagerScreenshot.PNG" width="800"/>
+
 
 
 
