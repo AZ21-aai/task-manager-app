@@ -62,3 +62,6 @@ http://localhost:8080
 👨‍💻 Autor
 
 Abdul Aziz Ilhan
+
+<img width="946" height="999" alt="image" src="https://github.com/user-attachments/assets/cc6379ce-eb34-4f81-9a2b-a2225e9f5376" />
+
